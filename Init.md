@@ -1,281 +1,288 @@
-Below is a clean, detailed, GitHub-ready master checklist you can drop directly into a README.md or PLANNING.md for your hackathon project.
-It covers planning, logistics, sponsorship, judging, marketing, mentor coordination, day-of execution, and post-event work.
+# KC Early Career Product Hack
+### Presented by Code & Coffee KC
 
-⸻
+A planning and execution guide for organizing the KC Early Career Product Hack — a community-focused, early-career, cross-functional hackathon.
 
-🚀 Hackathon Planning & Execution Checklist (Full 48-Hour Event)
+---
 
-1. 🎯 Define Vision & Goals
-	•	Determine the core purpose (skill growth, portfolio building, networking, mentoring).
-	•	Identify target participants (college students, early-career developers, bootcamp grads).
-	•	Choose hackathon theme (AI, health tech, civic tech, entrepreneurship, open innovation, etc.).
-	•	Decide hackathon format:
-	•	Fully in-person / hybrid / online.
-	•	48-hour continuous vs. split-day format.
-	•	Establish success metrics:
-	•	# of participants
-	•	# of finished projects
-	•	Sponsor engagement
-	•	Mentor usage
-	•	Participant feedback (NPS)
+## 1. Vision & Goals
 
-⸻
+**Purpose:**  
+Help early-career developers, designers, analysts, product thinkers, and career-switchers gain real product experience through a supportive, community-driven, in-person hackathon.
 
-2. 📅 Pick Venue, Date & Duration
-	•	Reserve event location (coworking, university space, community center, corporate hub).
-	•	Confirm capacity (teams, mentors, spectators).
-	•	Verify:
-	•	High-speed internet
-	•	Power access
-	•	Projector/screens
-	•	Whiteboards
-	•	24/7 access
-	•	Quiet rooms / collaboration rooms
-	•	Create official event schedule:
-	•	Day 1 (Kickoff): Check-in, keynote, team forming, idea selection
-	•	Day 2: Build + mentor sessions
-	•	Day 3: Pitching, judging, awards, networking
+**Primary Goals**
+- Build cross-functional product teams (dev + design + product + business).
+- Provide real product experience using entrepreneur-supplied problem ideas.
+- Strengthen KC's early-career tech pipeline.
+- Create resume-ready projects and improve job readiness.
+- Encourage learning, collaboration, and community (not hyper-competitive winning).
 
-⸻
+---
 
-3. 🧠 Collect & curate project ideas
+## 2. Event Format, Venue, and Duration
 
-You mentioned entrepreneurs supply ideas — here’s how to structure it:
-	•	Invite entrepreneurs/innovators to submit problem statements.
-	•	Provide them a template:
-	•	Problem summary
-	•	Why it matters
-	•	Desired outcome
-	•	Tech constraints/options
-	•	Real value it could provide
-	•	Review and finalize 6–12 solid challenge ideas.
-	•	Create a Project Ideas Catalog GitHub page / Google Doc / slide deck.
-	•	Publish ideas at kickoff.
+**Format Options (venue dependent):**
 
-⸻
+**Option A – Two-Weekend Hackathon**
+- Weekend 1: Kickoff, team formation, start building.
+- Week (offsite): Optional continued work.
+- Weekend 2: Build + pitch presentations.
 
-4. 💰 Sponsorship & Budget
-	•	Build sponsorship tiers (Bronze, Silver, Gold, Title).
-	•	Benefits: logo placement, mentor seats, keynote slot, judging seat, booth.
-	•	Make a simple budget:
-	•	Venue
-	•	Food & drinks
-	•	Swag (stickers, shirts)
-	•	Prizes (cash, hardware, gift cards)
-	•	AV equipment
-	•	Printing
-	•	Website / forms / domain
-	•	Create sponsorship pitch deck.
-	•	Contact:
-	•	Local tech startups
-	•	Large companies with student outreach
-	•	Incubators / accelerators
-	•	University departments
-	•	Community groups
+**Option B – 3-Day Hack Sprint**
+- Day 1: Kickoff + team formation.
+- Day 2: Build + workshops.
+- Day 3: Build + judging + awards.
 
-⸻
+**Venue Requirements**
+- Daytime access (venue locks overnight).
+- Strong WiFi.
+- Power for 40–50 participants.
+- Seating for teams + presentation area.
+- Optional workshop breakout room.
+- AV support for kickoff and pitch day.
 
-5. 🧑‍🏫 Recruit Mentors & Judges
+---
 
-Mentors
-	•	Compile list of mentors (engineers, designers, product managers, entrepreneurs).
-	•	Schedule mentor shifts so participants have support at all hours.
-	•	Brief mentors with:
-	•	Expectations
-	•	How to help without building the project for teams
-	•	Escalation process
-	•	Where to check in/out
+## 3. Project Ideas from Entrepreneurs
 
-Judges
-	•	Recruit 3–6 judges from tech, entrepreneurship, venture capital, UX, etc.
-	•	Create judging rubric:
-	•	Innovation
-	•	Technical execution
-	•	Impact
-	•	Presentation quality
-	•	Completeness
-	•	Provide judges their scoring sheets and scoring system in advance.
+**Process**
+- Invite 3 local entrepreneurs.
+- Each provides 1 problem statement.
+- Use a structured template:
+  - Problem summary  
+  - Why it matters  
+  - Users & stakeholders  
+  - Desired outcome  
+  - Constraints or context  
+- Publish ideas during kickoff.
+- Teams self-select which idea to build.
 
-⸻
+---
 
-6. 👥 Participant Recruitment & Registration
-	•	Create landing page or GitHub README with event info.
-	•	Set up registration (Google Forms, Eventbrite, Luma, Meetup, etc.).
-	•	Define participant requirements (experience level, max team size).
-	•	Promote to:
-	•	Local universities
-	•	Bootcamps
-	•	LinkedIn communities
-	•	Meetups
-	•	Discord servers
-	•	Code & Coffee KC
-	•	Include diversity outreach efforts.
+## 4. Sponsorship & Budget
 
-⸻
+**Flexible Sponsorship Options**
+- Food & drinks.
+- Venue support.
+- Swag (stickers, shirts).
+- Mentors or judges.
+- Table/booth space.
+- Workshop hosting.
 
-7. 📣 Marketing & Communication
-	•	Build event branding (logo, color palette, tagline).
-	•	Social posts timeline (1 month out → weekly → every 2 days → daily during event).
-	•	Create demo video or highlight reel (optional).
-	•	Send regular updates to registered participants.
+**Budget Considerations**
+- Meals (breakfast/lunch/dinner).
+- Snacks and drinks.
+- Swag (minimal).
+- Trophies or small prizes.
+- Printing (badges, signage).
+- AV equipment if needed.
 
-⸻
+**Potential Sponsors**
+- Local tech companies.
+- Startups & accelerators.
+- Universities.
+- Community groups.
 
-8. 🛠 Tools, Platforms & Setup
-	•	Communication platform for participants (Discord, Slack).
-	•	Submission platform (Devpost, GitHub repos, Google Drive folder).
-	•	Judges scoring platform (Google Sheets or custom scoring app).
-	•	Mentor scheduling system.
-	•	QR codes for:
-	•	Idea catalog
-	•	Schedule
-	•	Rules
-	•	Emergency contact
-	•	Web or GitHub page with:
-	•	Rules
-	•	Schedule
-	•	Judging rubric
-	•	Project ideas
-	•	Submission instructions
+---
 
-⸻
+## 5. Mentors & Judges
 
-9. 📜 Rules, Policies & Legal
-	•	Create Code of Conduct (use MLH template).
-	•	Project rules:
-	•	Must be built during the event
-	•	Allow existing libraries
-	•	Define allowed team sizes
-	•	Privacy policy
-	•	Media release for photos/videos
-	•	Waiver if event runs overnight
+### Mentors (approx. 10 total)
+- Developers  
+- Designers (UX/UI)  
+- Product managers  
+- Business analysts  
+- Entrepreneurs  
 
-⸻
+**Mentor Rules**
+- No touching participant keyboards.
+- May help on paper (sketching, pseudocode).
+- Offer technical and soft-skill support.
+- Rotate shifts so support is available throughout the event.
 
-10. 🍕 Food, A/V, Equipment & Logistics
-	•	Plan meals for all days.
-	•	Provide caffeine + snacks
-	•	Secure AV for opening and closing ceremonies
-	•	Tables & chairs arranged for teams
-	•	Quiet zones for focus
-	•	Charging station area
-	•	Swag table
-	•	First-aid kit & emergency plan
-	•	Staff/volunteer badges
+### Judges (ideal: 7)
+- 3 entrepreneurs (with problem statements).
+- 1 venue sponsor.
+- 2 sponsor judges.
+- 1 Code & Coffee KC representative.
 
-⸻
+**Judging Criteria**
+- Impact  
+- Innovation  
+- Usability & design  
+- Market viability  
+- Presentation quality
 
-11. 🏁 Opening Ceremony (Day 1)
-	•	Team check-in
-	•	Welcome speech
-	•	Keynote speaker (entrepreneur / sponsor)
-	•	Present hackathon rules
-	•	Present ideas catalog
-	•	Give team formation instructions
-	•	Mentors introduce themselves
-	•	Kick off the hackathon timer
+**Awards**
+- Trophy for Best Overall.
+- Peer-voted awards (e.g., Audience Favorite, Best Collaboration).
 
-⸻
+---
 
-12. 🔧 Build Phase (48 Hours)
-	•	Open the space
-	•	Ensure mentors rotate every few hours
-	•	Provide “office hours” schedule
-	•	Daily announcements (milestones, reminders)
-	•	Encourage teams to commit to repos early
-	•	Provide optional workshops:
-	•	Git & GitHub
-	•	Intro to APIs
-	•	Pitching for beginners
-	•	UI/UX tips
+## 6. Participants & Registration
 
-⸻
+**Who It's For**
+- College students.
+- Bootcamp students or grads.
+- Recent graduates (~12 months).
+- Career-switchers.
+- UX/UI, PM, BA, QA, data, and business-focused individuals.
+- Anyone early-career seeking experience.
 
-13. 🎤 Pitch Day (Final Day)
-	•	Verify final submissions are received
-	•	Create pitch order list
-	•	Each team gets ~3–5 minute pitch + 2 minutes Q&A
-	•	Judges sit together for scoring
-	•	Tabulate scores cleanly
-	•	Break while judges deliberate
-	•	Announce winners
-	•	Best Overall
-	•	Most Innovative
-	•	Best Social Impact
-	•	Best Design
-	•	Best Use of Sponsor API
-	•	Group photo
-	•	Networking time
+**Registration**
+- Free.
+- Individual signup (teams formed at event).
+- Honor-system eligibility checkbox.
 
-⸻
+**Team Size:** 3–5.  
+**Team Formation:** Pre-event meetup + kickoff formation.
 
-14. 🏆 Prizes & Awards
-	•	Cash prizes, trophies, or certificates
-	•	Sponsor prizes (swag, hardware, gift cards)
-	•	Certificates of participation for all teams
-	•	Special recognition for mentors & volunteers
+---
 
-⸻
+## 7. Marketing & Outreach
 
-15. 📸 Media & Documentation
-	•	Photographer or volunteers taking photos
-	•	Live social posting
-	•	Capture video of pitches
-	•	Gather participant testimonials
-	•	Create recap blog post or video
+**Promote Through**
+- Code & Coffee KC Discord and Meetup.
+- LinkedIn posts.
+- Local universities.
+- Bootcamps (LaunchCode, KC Codes, etc.).
+- Startup incubators.
+- KC tech communities and Discord groups.
 
-⸻
+**Branding Needs**
+- Event logo.
+- Tagline.
+- Color palette.
+- Social graphics.
+- GitHub landing page.
 
-16. 🧹 Post-Event Wrap-up
-	•	Collect feedback survey
-	•	Hold debrief meeting with volunteers
-	•	Publish winning projects
-	•	Publicly thank sponsors/mentors/judges
-	•	Archive all docs in GitHub repo
-	•	Start planning for next year :)
+---
 
-⸻
+## 8. Tools, Platforms & Setup
 
-17. 📦 Repo Structure Recommendation
+**Platforms**
+- Discord for communication.
+- GitHub organization (repos created per team).
+- Google Sheets for judging.
+- Google Forms / Eventbrite / Luma for registration.
 
-You can structure your GitHub resources like this:
+**QR Codes For**
+- Schedule.
+- Rules.
+- Judging criteria.
+- Project ideas.
+- Mentor schedule.
+
+**Website or GitHub Pages Should Include**
+- Schedule.
+- Rules.
+- Judging criteria.
+- Project ideas.
+- Participant guide.
+- Submission instructions.
+
+---
+
+## 9. Rules, Policies, and Conduct
+
+- All work must be done during the hackathon window.
+- No solo teams.
+- Mentors cannot write participant code.
+- Code of Conduct required.
+- Liability waiver and photo release required.
+- Participants retain full IP ownership.
+- No overnight venue access (participants may work offsite).
+
+---
+
+## 10. Food, Swag, and Logistics
+
+**Provide**
+- Breakfast, lunch, dinner (per day).
+- Snacks and drinks.
+- Coffee (preferred sponsor opportunity).
+- Lanyards and badges.
+- Minimal swag.
+- Mentor shirts if budget allows.
+
+**Venue Setup**
+- Team tables and power strips.
+- Charging station.
+- Check-in table.
+- Snack & swag table.
+- Presentation area.
+- Quiet focus area.
+
+---
+
+## 11. Event Flow
+
+### Opening Ceremony (Day 1)
+- Check-in.
+- Welcome + kickoff.
+- Rules overview.
+- Introduce entrepreneurs + project ideas.
+- Mentor introductions.
+- Team formation.
+- Hacking begins.
+
+### Build Phase
+- Optional workshops.
+- Rotating mentors.
+- Announcements and reminders.
+- Encourage early commits.
+- Capture photos and updates.
+
+### Pitch Day
+- Final submissions due.
+- 3–5 minute pitches + Q&A.
+- Judges scoring.
+- Awards ceremony.
+- Group photo + networking.
+
+---
+
+## 12. Post-Event Wrap-Up
+
+- Send participant feedback survey.
+- Publish winning projects.
+- Thank sponsors, judges, and mentors publicly.
+- Internal post-mortem meeting.
+- Archive all materials in the GitHub repo.
+- Begin planning for the next event.
+
+---
+
+## 13. Recommended Repo Structure
 
 /planning
-  /sponsors
-  /judges
-  /mentors
-  /ideas
-  /templates
+/sponsors
+/judges
+/mentors
+/ideas
+/templates
+
 /event
-  schedule.md
-  rules.md
-  code-of-conduct.md
-  judging-rubric.md
+schedule.md
+rules.md
+code-of-conduct.md
+judging-rubric.md
+
 /docs
-  branding-assets/
+branding-assets/
+
 README.md
 
+---
 
-⸻
+## 14. Optional Enhancements
 
-18. 👍 Optional Add-Ons That Increase Impact
-	•	Resume review station
-	•	30-minute mock interview sessions
-	•	Lightning talks by industry pros
-	•	“Help Desk” staffed by mentors at all times
-	•	Access to APIs/tools from sponsors
-	•	Workshops for beginners before the event
-	•	LinkedIn banner template for participants
-	•	Discord bot to broadcast announcements
+- Resume review station.
+- Mock interview sessions.
+- Lightning talks.
+- “Help Desk” mentor desk.
+- Beginner workshops before the event.
+- LinkedIn banner template for participants.
+- Discord bot for announcements.
 
-⸻
-
-If you want, I can also generate:
-
-✅ A full GitHub README template
-✅ A sponsorship packet PDF
-✅ A pitch deck for recruiting judges/mentors
-✅ A logo + branding concepts
-✅ A timeline Gantt chart
-
-Just tell me what you want next!
+---
